@@ -12,3 +12,5 @@ def fact (x):
 return result
 
 
+def new_function ()
+	pass
