@@ -1,4 +1,4 @@
-#New row
+#New
 print ("Hello, world!")
 #Added cycle
 for i in range(0,2):
